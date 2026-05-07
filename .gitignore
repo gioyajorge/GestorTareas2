@@ -28,3 +28,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+.idea/ → configuración de IntelliJ
+*.iml → archivos del proyecto
+out/ → código compilado
